@@ -1,0 +1,101 @@
+Age,Gender,Location,Breakfast,Lunch,Dinner,Grocery Frequency,Rice Quantity (kg),Rice Price (INR),Wheat Flour Quantity (kg),Wheat Flour Price (INR),Vegetables Quantity (kg),Vegetables Price (INR),Weekly Grocery Spend (INR)
+48,Female,Pune,Pesarattu,Sambar Rice,Dal Tadka,Daily,9,945,2,33,10,176,4944
+54,Other,Hyderabad,Dosa,Sambar Rice,Dal Tadka,Monthly,20,610,5,216,2,498,3833
+48,Female,Jaipur,Idli,Dosa,Pulao,Daily,16,225,6,175,8,452,4956
+29,Female,Jaipur,Thepla,Paneer Tikka,Rajma Rice,Daily,17,836,7,292,1,80,4151
+49,Female,Pune,Idli,Kadhi Khichdi,Paneer Butter Masala,Daily,1,578,4,103,4,290,634
+18,Other,Jaipur,Pesarattu,Chole Bhature,Paneer Butter Masala,Bi-Weekly,2,799,5,380,9,175,3448
+27,Other,Bangalore,Dosa,Kadhi Khichdi,Rice Dal,Bi-Weekly,16,510,9,249,9,131,2859
+45,Male,Hyderabad,Thepla,Butter Chicken,Paneer Butter Masala,Weekly,20,117,4,236,2,383,793
+48,Female,Ahmedabad,Aloo Paratha,Dosa,Dal Tadka,Weekly,3,996,5,180,4,402,3464
+54,Other,Chandigarh,Bread Omelette,Dosa,Dal Makhani,Weekly,2,76,2,137,7,332,1708
+46,Other,Chandigarh,Thepla,Chole Bhature,Rice Dal,Bi-Weekly,12,193,7,221,10,292,4213
+26,Other,Kolkata,Paratha,Dosa,Pulao,Weekly,8,852,6,330,10,51,2260
+57,Other,Chennai,Paratha,Dosa,Paneer Butter Masala,Weekly,19,516,8,175,10,189,4033
+20,Male,Kolkata,Upma,Biryani,Rajma Rice,Bi-Weekly,7,956,3,329,8,359,4350
+45,Other,Hyderabad,Pesarattu,Paneer Tikka,Besan Chilla,Monthly,5,661,2,170,5,435,641
+33,Other,Ahmedabad,Idli,Chole Bhature,Dal Makhani,Monthly,6,371,4,171,9,414,3928
+60,Male,Hyderabad,Missi Roti,Dosa,Pav Bhaji,Bi-Weekly,10,675,5,304,9,205,4683
+50,Male,Jaipur,Paratha,Paneer Tikka,Pulao,Daily,6,395,5,161,8,270,2773
+50,Male,Delhi,Bread Omelette,Butter Chicken,Dal Makhani,Bi-Weekly,3,83,4,341,6,278,4775
+45,Male,Ahmedabad,Bread Omelette,Paneer Tikka,Pav Bhaji,Weekly,19,786,6,65,4,374,1543
+53,Female,Chennai,Missi Roti,Sambar Rice,Biryani,Monthly,2,923,4,390,4,336,2833
+18,Female,Pune,Pesarattu,Kadhi Khichdi,Dal Makhani,Monthly,17,615,3,369,5,417,3437
+24,Female,Bangalore,Poha,Macher Jhol,Paneer Butter Masala,Daily,20,579,9,25,8,478,2356
+23,Male,Jaipur,Upma,Sambar Rice,Pulao,Bi-Weekly,5,313,6,340,6,58,3977
+27,Other,Chennai,Bread Omelette,Sambar Rice,Paneer Butter Masala,Daily,5,95,3,239,10,403,2232
+30,Female,Bangalore,Poha,Paneer Tikka,Rajma Rice,Daily,13,295,2,336,1,473,2938
+18,Other,Mumbai,Bread Omelette,Roti Sabzi,Biryani,Daily,2,926,5,295,8,287,2057
+33,Other,Mumbai,Paratha,Sambar Rice,Dal Makhani,Monthly,3,419,5,110,9,154,2068
+33,Female,Chandigarh,Bread Omelette,Chole Bhature,Rajma Rice,Weekly,2,570,8,66,2,245,1446
+50,Male,Bangalore,Paratha,Chole Bhature,Biryani,Weekly,3,549,5,174,2,343,4487
+49,Male,Jaipur,Paratha,Sambar Rice,Rajma Rice,Monthly,14,401,9,223,8,252,1561
+51,Female,Ahmedabad,Dosa,Sambar Rice,Biryani,Monthly,17,929,2,163,4,376,975
+24,Male,Delhi,Aloo Paratha,Dosa,Rajma Rice,Bi-Weekly,9,746,9,111,6,494,510
+51,Female,Bangalore,Dosa,Chole Bhature,Paneer Butter Masala,Bi-Weekly,3,437,10,396,8,255,810
+24,Female,Kolkata,Thepla,Dal Baati Churma,Biryani,Monthly,17,446,9,347,4,151,3138
+49,Other,Pune,Idli,Kadhi Khichdi,Dal Makhani,Weekly,17,97,8,227,5,351,4499
+60,Male,Pune,Aloo Paratha,Kadhi Khichdi,Paneer Butter Masala,Bi-Weekly,15,383,9,51,2,425,4766
+45,Other,Ahmedabad,Thepla,Sambar Rice,Besan Chilla,Monthly,4,633,7,300,4,349,3440
+37,Female,Chennai,Upma,Dosa,Pav Bhaji,Weekly,19,478,10,221,4,366,2990
+56,Female,Hyderabad,Dosa,Chole Bhature,Rajma Rice,Monthly,4,197,5,253,2,188,563
+28,Other,Chandigarh,Missi Roti,Dosa,Besan Chilla,Daily,9,555,1,164,1,306,2674
+40,Other,Chandigarh,Thepla,Paneer Tikka,Paneer Butter Masala,Daily,12,520,4,342,4,342,2668
+52,Other,Delhi,Pesarattu,Paneer Tikka,Dal Makhani,Weekly,4,593,9,145,10,152,3992
+42,Other,Kolkata,Missi Roti,Kadhi Khichdi,Besan Chilla,Weekly,20,277,2,182,2,211,4244
+50,Male,Kolkata,Paratha,Biryani,Rice Dal,Daily,5,412,3,115,7,234,859
+22,Male,Hyderabad,Bread Omelette,Chole Bhature,Besan Chilla,Bi-Weekly,14,897,1,281,3,118,4997
+55,Female,Kolkata,Aloo Paratha,Kadhi Khichdi,Besan Chilla,Bi-Weekly,6,700,9,20,2,372,799
+29,Female,Mumbai,Thepla,Dal Baati Churma,Rice Dal,Weekly,9,936,7,23,9,393,770
+36,Male,Kolkata,Bread Omelette,Butter Chicken,Curd Rice,Monthly,4,560,8,299,8,450,4447
+44,Male,Ahmedabad,Aloo Paratha,Macher Jhol,Dal Makhani,Monthly,2,336,1,315,8,52,3314
+31,Other,Jaipur,Dosa,Kadhi Khichdi,Besan Chilla,Weekly,16,791,4,365,5,302,3260
+43,Female,Jaipur,Missi Roti,Dosa,Biryani,Monthly,20,272,3,103,10,438,1805
+34,Other,Delhi,Thepla,Dosa,Rajma Rice,Daily,8,234,10,40,8,143,4688
+44,Male,Hyderabad,Missi Roti,Sambar Rice,Rice Dal,Daily,20,239,5,280,6,57,3347
+20,Other,Pune,Thepla,Paneer Tikka,Pulao,Monthly,2,173,9,160,4,281,1628
+34,Other,Ahmedabad,Missi Roti,Kadhi Khichdi,Dal Makhani,Daily,16,475,1,296,9,477,4865
+18,Female,Ahmedabad,Aloo Paratha,Biryani,Biryani,Daily,8,194,10,202,7,391,4247
+52,Other,Pune,Upma,Kadhi Khichdi,Pulao,Daily,8,480,7,353,8,89,1170
+21,Female,Ahmedabad,Upma,Paneer Tikka,Paneer Butter Masala,Daily,17,193,6,365,3,304,3823
+24,Female,Pune,Aloo Paratha,Roti Sabzi,Dal Makhani,Daily,8,585,1,98,7,357,3665
+28,Female,Ahmedabad,Bread Omelette,Chole Bhature,Curd Rice,Bi-Weekly,7,106,3,201,9,177,2815
+22,Female,Chandigarh,Idli,Macher Jhol,Dal Tadka,Bi-Weekly,16,724,8,130,8,426,3744
+25,Male,Chennai,Paratha,Kadhi Khichdi,Biryani,Bi-Weekly,18,663,8,370,4,208,3636
+48,Other,Hyderabad,Pesarattu,Paneer Tikka,Pulao,Bi-Weekly,7,471,3,360,2,351,3937
+25,Other,Delhi,Aloo Paratha,Dal Baati Churma,Dal Makhani,Daily,7,688,1,297,5,153,2444
+51,Other,Mumbai,Aloo Paratha,Paneer Tikka,Pav Bhaji,Monthly,10,976,10,129,4,102,4635
+43,Other,Mumbai,Missi Roti,Dal Baati Churma,Dal Makhani,Bi-Weekly,2,894,4,109,5,437,4873
+50,Other,Mumbai,Pesarattu,Butter Chicken,Rice Dal,Bi-Weekly,4,309,3,279,5,196,4140
+24,Male,Bangalore,Missi Roti,Kadhi Khichdi,Rajma Rice,Monthly,13,616,10,22,2,404,4738
+44,Male,Hyderabad,Bread Omelette,Macher Jhol,Dal Makhani,Daily,8,875,6,311,5,419,2057
+54,Other,Jaipur,Thepla,Dal Baati Churma,Besan Chilla,Monthly,15,843,5,383,7,454,3636
+33,Female,Hyderabad,Bread Omelette,Roti Sabzi,Biryani,Bi-Weekly,9,370,10,369,8,320,547
+42,Other,Hyderabad,Missi Roti,Biryani,Besan Chilla,Monthly,14,320,10,51,8,272,3275
+34,Male,Chennai,Upma,Sambar Rice,Pav Bhaji,Weekly,2,982,10,206,9,447,1631
+51,Female,Kolkata,Upma,Sambar Rice,Biryani,Monthly,9,900,1,249,8,332,4243
+49,Female,Hyderabad,Poha,Sambar Rice,Paneer Butter Masala,Monthly,19,739,8,34,10,274,4424
+18,Female,Bangalore,Bread Omelette,Roti Sabzi,Pulao,Bi-Weekly,2,448,9,39,4,375,2824
+41,Female,Ahmedabad,Paratha,Butter Chicken,Dal Tadka,Bi-Weekly,20,520,3,304,6,110,1618
+41,Male,Chandigarh,Bread Omelette,Dosa,Pav Bhaji,Monthly,19,970,4,275,1,143,909
+37,Other,Chandigarh,Missi Roti,Macher Jhol,Rajma Rice,Bi-Weekly,8,605,2,315,10,346,3996
+54,Female,Hyderabad,Dosa,Roti Sabzi,Pulao,Monthly,2,687,2,236,9,183,3554
+23,Male,Kolkata,Bread Omelette,Paneer Tikka,Dal Tadka,Monthly,11,516,5,81,6,228,3631
+35,Other,Chandigarh,Idli,Chole Bhature,Paneer Butter Masala,Daily,3,938,10,128,4,116,2054
+27,Male,Pune,Idli,Paneer Tikka,Rajma Rice,Bi-Weekly,1,602,1,260,4,208,1869
+30,Female,Jaipur,Missi Roti,Butter Chicken,Dal Tadka,Weekly,20,370,5,237,6,97,1378
+51,Male,Kolkata,Missi Roti,Chole Bhature,Pulao,Bi-Weekly,5,981,8,29,9,289,1173
+24,Male,Bangalore,Idli,Macher Jhol,Rice Dal,Daily,1,567,4,24,4,240,1899
+53,Female,Delhi,Bread Omelette,Biryani,Rice Dal,Weekly,14,807,10,344,10,172,797
+45,Male,Chandigarh,Missi Roti,Sambar Rice,Pav Bhaji,Weekly,1,170,2,141,4,488,3571
+32,Male,Pune,Paratha,Dosa,Dal Makhani,Monthly,14,269,3,153,10,126,747
+55,Other,Ahmedabad,Aloo Paratha,Roti Sabzi,Dal Tadka,Daily,11,728,1,113,10,51,3376
+46,Female,Delhi,Missi Roti,Chole Bhature,Rajma Rice,Weekly,20,101,4,51,10,421,2939
+32,Other,Chennai,Idli,Butter Chicken,Rice Dal,Monthly,9,896,5,298,6,245,853
+50,Female,Chennai,Thepla,Chole Bhature,Biryani,Daily,11,794,7,66,7,434,2555
+31,Other,Pune,Dosa,Paneer Tikka,Biryani,Bi-Weekly,11,488,8,92,1,54,3478
+37,Male,Ahmedabad,Pesarattu,Kadhi Khichdi,Rice Dal,Monthly,1,427,5,298,10,150,4258
+25,Male,Kolkata,Bread Omelette,Macher Jhol,Dal Tadka,Daily,14,244,4,67,5,274,4079
+26,Male,Hyderabad,Idli,Dal Baati Churma,Paneer Butter Masala,Daily,1,482,9,127,4,279,4633
+54,Other,Kolkata,Thepla,Biryani,Curd Rice,Daily,13,887,2,388,10,249,632
+43,Male,Chennai,Dosa,Sambar Rice,Besan Chilla,Daily,2,272,5,172,1,440,2481
